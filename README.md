@@ -2,7 +2,7 @@
 Simple yet beautiful todo app the works on both android and ios
 
 ![Alt text](./screenshots/Screenshot_1593719561.png "Optional Title")
-![Alt text](./screenshots/SimulatorScreen Shot-iPhone11ProMax-2020-07-02 at 22.24.11.png "Optional Title")
+![Alt text](./screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-07-02%20at%2022.24.31.png "Optional Title")
 ![Alt text](./screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-02 at 22.24.31.png "Optional Title")
 ![Alt text](./screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-02 at 22.24.37.png "Optional Title")
 
