@@ -1,6 +1,8 @@
 # TodoApp
 Simple yet beautiful todo app the works on both android and ios
 
+![Alt text](./screenshots/Screenshot_1593719561.png?raw=true "Optional Title")
+
 
 steps to run the project
 
@@ -22,3 +24,4 @@ That's it you can now run the project on android and iOS using the following com
 
 I attached some screenshots for each platform.
 If you're having any problems running the app or have any questions please feel free to contact me anytime.
+
