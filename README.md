@@ -1,7 +1,10 @@
 # TodoApp
 Simple yet beautiful todo app the works on both android and ios
 
-![Alt text](./screenshots/Screenshot_1593719561.png?raw=true "Optional Title")
+![Alt text](./screenshots/Screenshot_1593719561.png "Optional Title")
+![Alt text](./screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-02 at 22.24.11.png "Optional Title")
+![Alt text](./screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-02 at 22.24.31.png "Optional Title")
+![Alt text](./screenshots/Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-02 at 22.24.37.png "Optional Title")
 
 
 steps to run the project
